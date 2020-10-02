@@ -1,0 +1,15 @@
+{
+    "name": "deliciousbrains/markdown-on-save",
+    "description": "Allows you to compose content in Markdown on a per-item basis.",
+    "license": "GPL-3.0+",
+    "authors": [
+      {
+        "name": "Delicious Brains",
+        "email": "nom@deliciousbrains.com",
+        "homepage": "https://deliciousbrains.com/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
