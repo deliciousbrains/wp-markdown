@@ -9,7 +9,5 @@
         "homepage": "https://deliciousbrains.com/"
       }
     ],
-    "type": "wordpress-plugin",
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "type": "wordpress-plugin"
 }
