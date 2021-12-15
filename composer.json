@@ -9,5 +9,5 @@
         "homepage": "https://deliciousbrains.com/"
       }
     ],
-    "type": "wordpress-plugin"
+    "type": "wordpress-muplugin"
 }
