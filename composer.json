@@ -1,7 +1,7 @@
 {
     "name": "deliciousbrains/wp-markdown",
     "description": "Allows you to compose content in Markdown on a per-item basis.",
-    "license": "GPL-3.0+",
+    "license": "GPL-3.0-or-later",
     "authors": [
       {
         "name": "Delicious Brains",
@@ -11,7 +11,11 @@
     ],
     "type": "wordpress-muplugin",
     "require": {
-      "composer/installers": "~1.0",
-      "boxuk/wp-muplugin-loader": "^1.2"
+      "composer/installers": "^2.3"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
     }
 }
